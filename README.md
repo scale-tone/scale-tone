@@ -2,12 +2,12 @@
 
 So I do eat. And I do code (even though currently acting as a Cloud Solution Architect @ Microsoft). And here is some of the code I do.
 
-## Projects
+### Projects
 - [Durable Functions Monitor](https://github.com/scale-tone/DurableFunctionsMonitor#durable-functions-monitor) - a monitoring/debugging UI tool for [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview).
 - [LINQ2DynamoDB](https://github.com/scale-tone/linq2dynamodb) - a type-safe data context for [AWS DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html) with LINQ and in-memory caching support. Allows to combine DynamoDB's durability with cache speed and read consistency.
 - [durable-mvc-starter] - basic project setup and scaffolding for creating serverless web applications based on [Azure Durable Entities](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities), [Azure SignalR Service](https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-overview), React+MobX and TypeScript.
 
-## Profiles
+### Profiles
 - [Personal blog](https://scale-tone.github.io/)
 - [Twitter](https://twitter.com/tino_scale_tone)
 - [LinkedIn](https://www.linkedin.com/in/lepeshenkov)
