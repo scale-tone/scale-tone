@@ -18,7 +18,7 @@ List of Volvo car models I owned:
 - (1998-2000) [340](https://en.wikipedia.org/wiki/Volvo_300_Series), 5-door hatchback, 1.7 L, manual, dark grey.
 - (2000-2003) [440](https://en.wikipedia.org/wiki/Volvo_440/460), 5-door hatchback, 1.8 L, manual, light grey.
 - (2003-2006) [s40](https://en.wikipedia.org/wiki/Volvo_S40), 4-door sedan, 1.6 L, manual, dark green.
-- (2006-2020) ... was going through some things...
+- (2006-2020) ... *was going through some things* ...
 - (2020-now)  [c30](https://en.wikipedia.org/wiki/Volvo_C30), 3-door hatchback, 1.6 L, manual, dark grey. 
 
 <!--
