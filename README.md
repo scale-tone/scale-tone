@@ -8,9 +8,10 @@ So I do eat. And I do code (even though currently acting as a Cloud Solution Arc
 - [LINQ2DynamoDB](https://github.com/scale-tone/linq2dynamodb) - a type-safe data context for [AWS DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html) with LINQ and in-memory caching support. Allows to combine DynamoDB's durability with cache speed and read consistency.
 
 ### Profiles
-- [Personal blog](https://scale-tone.github.io/)
-- [Twitter](https://twitter.com/tino_scale_tone)
-- [LinkedIn](https://www.linkedin.com/in/lepeshenkov)
+- Personal blog: [scale-tone.github.io](https://scale-tone.github.io/)
+- GitHub: [scale-tone](https://github.com/scale-tone)
+- Twitter: [@tino_scale_tone](https://twitter.com/tino_scale_tone)
+- LinkedIn: [www.linkedin.com/in/lepeshenkov](https://www.linkedin.com/in/lepeshenkov)
 
 ### Fun facts
 
