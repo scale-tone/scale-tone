@@ -3,7 +3,7 @@
 So I do eat. And I do code (even though currently acting as a Cloud Solution Architect @ Microsoft). And here is some of the code I do.
 
 ### Projects
-- [Durable Functions Monitor](https://github.com/scale-tone/DurableFunctionsMonitor#durable-functions-monitor) - a monitoring/debugging UI tool for [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview).
+- [Durable Functions Monitor](https://github.com/microsoft/DurableFunctionsMonitor#readme) - a monitoring/debugging UI tool for [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview).
 - [KeeShepherd](https://github.com/scale-tone/kee-shepherd) - this VsCode extension takes care of credentials (secrets, access keys, connection strings etc.), which are typically spread across numerous config files on your devbox(es).
 - [az-func-as-a-graph](https://github.com/scale-tone/az-func-as-a-graph) - this tool visualizes your [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) in form of interactive graphs, giving you a quick architecture overview and a code map.
 - [durable-mvc-starter](https://github.com/scale-tone/durable-mvc-starter) - basic project setup and scaffolding for creating serverless web applications based on [Azure Durable Entities](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities), [Azure SignalR Service](https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-overview), React+MobX and TypeScript.
