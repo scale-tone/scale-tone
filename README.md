@@ -25,6 +25,8 @@ List of Volvo car models I owned:
 - (2006-2020) ... *was going through some things* ...
 - (2020-now)  [c30](https://en.wikipedia.org/wiki/Volvo_C30), 3-door hatchback, 1.6 L, manual, dark grey. 
 
+Also I bear two driving licenses (for both sides of the road) and four boating licenses (for various Globe regions).
+
 <!--
 **scale-tone/scale-tone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
