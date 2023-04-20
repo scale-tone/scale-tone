@@ -15,6 +15,7 @@ So I do eat. And I do code (even though currently acting as a Cloud Solution Arc
 ### Profiles
 - Personal blog: [scale-tone.github.io](https://scale-tone.github.io/)
 - GitHub: [scale-tone](https://github.com/scale-tone)
+- Mastodon: [@scale_tone](https://mastodon.social/@scale_tone)
 - Twitter: [@tino_scale_tone](https://twitter.com/tino_scale_tone)
 - LinkedIn: [www.linkedin.com/in/lepeshenkov](https://www.linkedin.com/in/lepeshenkov)
 
