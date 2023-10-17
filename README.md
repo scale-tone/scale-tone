@@ -4,10 +4,11 @@ So I do eat. And I do code (even though currently acting as a Cloud Solution Arc
 
 ### Projects
 - [Durable Functions Monitor](https://github.com/microsoft/DurableFunctionsMonitor#readme) - a monitoring/debugging UI tool for [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview).
+- [Azure Resource Explorer for VsCode](https://github.com/scale-tone/kee-shepherd) - a clone of [Azure Resource Explorer](https://portal.azure.com/#view/HubsExtension/ArmExplorerBlade) for VsCode.
 - [KeeShepherd](https://github.com/scale-tone/kee-shepherd) - this VsCode extension takes care of credentials (secrets, access keys, connection strings etc.), which are typically spread across numerous config files on your devbox(es).
-- [AzFunc4DevOps](https://github.com/scale-tone/AzFunc4DevOps) - a set of Azure DevOps Triggers and Bindings for Azure Functions.
 - [ThrottlingTroll](https://github.com/scale-tone/ThrottlingTroll) - rate limiting/throttling middleware for ASP.NET Core and Azure Functions.
 - [az-func-as-a-graph](https://github.com/scale-tone/az-func-as-a-graph) - this tool visualizes your [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) in form of interactive graphs, giving you a quick architecture overview and a code map.
+- [AzFunc4DevOps](https://github.com/scale-tone/AzFunc4DevOps) - a set of Azure DevOps Triggers and Bindings for Azure Functions.
 - [durable-mvc-starter](https://github.com/scale-tone/durable-mvc-starter) - basic project setup and scaffolding for creating serverless web applications based on [Azure Durable Entities](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-entities), [Azure SignalR Service](https://docs.microsoft.com/en-us/azure/azure-signalr/signalr-overview), React+MobX and TypeScript.
 - [Cognitive Search Static Web Apps sample](https://github.com/scale-tone/cognitive-search-static-web-apps-sample-ui) - a simple sample UI for your [Azure Cognitive Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-azure-search) index. Built with React, TypeScript and [Azure Static Web Apps](https://docs.microsoft.com/en-us/azure/static-web-apps/overview).
 - [LINQ2DynamoDB](https://github.com/scale-tone/linq2dynamodb) - a type-safe data context for [AWS DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html) with LINQ and in-memory caching support. Allows to combine DynamoDB's durability with cache speed and read consistency.
