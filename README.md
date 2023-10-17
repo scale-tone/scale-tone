@@ -4,7 +4,7 @@ So I do eat. And I do code (even though currently acting as a Cloud Solution Arc
 
 ### Projects
 - [Durable Functions Monitor](https://github.com/microsoft/DurableFunctionsMonitor#readme) - a monitoring/debugging UI tool for [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview).
-- [Azure Resource Explorer for VsCode](https://github.com/scale-tone/kee-shepherd) - a clone of [Azure Resource Explorer](https://portal.azure.com/#view/HubsExtension/ArmExplorerBlade) for VsCode.
+- [Azure Resource Explorer for VsCode](https://github.com/scale-tone/azure-resource-explorer-vscode) - a clone of [Azure Resource Explorer](https://portal.azure.com/#view/HubsExtension/ArmExplorerBlade) for VsCode.
 - [KeeShepherd](https://github.com/scale-tone/kee-shepherd) - this VsCode extension takes care of credentials (secrets, access keys, connection strings etc.), which are typically spread across numerous config files on your devbox(es).
 - [ThrottlingTroll](https://github.com/scale-tone/ThrottlingTroll) - rate limiting/throttling middleware for ASP.NET Core and Azure Functions.
 - [az-func-as-a-graph](https://github.com/scale-tone/az-func-as-a-graph) - this tool visualizes your [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview) in form of interactive graphs, giving you a quick architecture overview and a code map.
