@@ -1,6 +1,6 @@
 💡 “A software architect who does not code is like a cook who does not eat” © [Grady Booch](https://en.wikipedia.org/wiki/Grady_Booch).
 
-So I do eat. And I do code (even though currently acting as a Cloud Solution Architect @ Microsoft). And here is some of the code I do.
+So I do eat. And I do code. And here is some of the code I do.
 
 ### Projects
 - [Durable Functions Monitor](https://github.com/microsoft/DurableFunctionsMonitor#readme) - a monitoring/debugging UI tool for [Azure Durable Functions](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview).
